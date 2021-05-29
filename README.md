@@ -11,7 +11,7 @@ The purpose of this analysis is to find how the bikeshare program works in New Y
 
 Various datasets including breakdown of gender-based data, subscriber data, duration of rental etc. were evaluated for more information.  All images can be found in the Resources folder.
 
-[Image 1](Image 1.png) was filtered for 0-2 hours.  Over 146K trips have been for approximately 10 mins.
+[Image 1]("Image 1.png") was filtered for 0-2 hours.  Over 146K trips have been for approximately 10 mins.
 
 [Image 2](Image 2.png)shows the breakdown of the users based on gender.  The data reveals that users were mostly male.  Male users have used the bikes for approximately 10 mins around 3 times more than female users for that same time of usage.
 
