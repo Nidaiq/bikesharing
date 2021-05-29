@@ -13,17 +13,17 @@ Various datasets including breakdown of gender-based data, subscriber data, dura
 
 [Image 1](https://github.com/Nidaiq/bikesharing/blob/main/Image%201.png) was filtered for 0-2 hours.  Over 146K trips have been for approximately 10 mins.
 
-[Image 2](Image 2.png)shows the breakdown of the users based on gender.  The data reveals that users were mostly male.  Male users have used the bikes for approximately 10 mins around 3 times more than female users for that same time of usage.
+[Image 2](https://github.com/Nidaiq/bikesharing/blob/main/Image%202.png)shows the breakdown of the users based on gender.  The data reveals that users were mostly male.  Male users have used the bikes for approximately 10 mins around 3 times more than female users for that same time of usage.
 
-[Image 3](Image 3.png) shows that during weekdays most trips were made in the morning around 8am or in the evening between 5-6pm.  During the weekends the data is equally spread out between 9am to 7pm.  Thursday is the busiest day with most trips followed by Friday.  
+[Image 3](https://github.com/Nidaiq/bikesharing/blob/main/Image%203.png) shows that during weekdays most trips were made in the morning around 8am or in the evening between 5-6pm.  During the weekends the data is equally spread out between 9am to 7pm.  Thursday is the busiest day with most trips followed by Friday.  
 
-[Image 4](Image 4.png) shows that most trips were made by men around 5-6pm on Thursday. 
+[Image 4](https://github.com/Nidaiq/bikesharing/blob/main/Image%204.png) shows that most trips were made by men around 5-6pm on Thursday. 
 
-[Image 5](Image 5.png) shows that most subscribers were male and used their subscription mostly either Thursday - Fri  as well as Monday- Tuesday.  Most female subscribers used the bikes equally over the 7 days of the week.
+[Image 5](https://github.com/Nidaiq/bikesharing/blob/main/Image%205.png) shows that most subscribers were male and used their subscription mostly either Thursday - Fri  as well as Monday- Tuesday.  Most female subscribers used the bikes equally over the 7 days of the week.
 
-[Image 6](Image 6.png) shows that there are almost 5 times more subscribers that use the bike as compared to the customers.
+[Image 6](https://github.com/Nidaiq/bikesharing/blob/main/Image%206.png) shows that there are almost 5 times more subscribers that use the bike as compared to the customers.
 
-[Image 7](Image 7.png) shows that there are almost 2.5 times more male users of the bikes than female users.
+[Image 7](https://github.com/Nidaiq/bikesharing/blob/main/Image%207.png) shows that there are almost 2.5 times more male users of the bikes than female users.
 
 # Summary:
 Looking at why this project had started in the first place it is evident that if the locations are picked carefully this could be a profitable venture as it is highly dependent on the number of subscribers that are using the bike for work.  Male subscribers are mostly using these bikes during weekdays to commute for under 15-minute trips.  These trips are mostly carried out when commuters are going from home to work in the morning and then back home in the evening. Further research may be required to solidify if this is a good plan for a smaller city.
@@ -32,10 +32,10 @@ Looking at why this project had started in the first place it is evident that if
 Some recommendations for more analysis are stated below:
 
 - A line graph of birth year and user data would tell you the age of the users.  I turns out that most users were born  around 1970.  The second peak related to age is around users born in 1990.  This would make age of most users around 50 years old and the second age group in early twenties.  
-[Image 8](Image 8.png)
+[Image 8](https://github.com/Nidaiq/bikesharing/blob/main/Image%208.png) shows the graph acheived.
 
 - A gradient chart of User type and Birth Year would reveal that most users born in 1970s are customers, vs the subscribers mostly fall between 1980 - 1995.
-[Image 9](Image 9.png)
+[Image 9](https://github.com/Nidaiq/bikesharing/blob/main/Image%209.png) shows these results.
 
 - Further research should be done to see what is around the start locations and ending locations during peak hours. This would let you know areas where the business idea could be successful. 
 
