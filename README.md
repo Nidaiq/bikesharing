@@ -9,7 +9,7 @@ The purpose of this analysis is to find how the bikeshare program works in New Y
 
 # Results:
 
-Various datasets including breakdown of gender-based data, subscriber data, duration of rental etc. were evaluated for more information.  All images can be found in the Resources folder.
+Various datasets including breakdown of gender-based data, subscriber data, duration of rental etc. were evaluated for more information.  
 
 [Image 1](https://github.com/Nidaiq/bikesharing/blob/main/Image%201.png) was filtered for 0-2 hours.  Over 146K trips have been for approximately 10 mins.
 
